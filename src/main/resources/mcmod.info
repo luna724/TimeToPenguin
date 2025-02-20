@@ -1,0 +1,17 @@
+[
+{
+  "modid": "time2penguin",
+  "name": "Time to Penguin!",
+  "description": "convert player to penguin!!!!!!!!!!!! (client-side)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/luna724/TimeToPenguin",
+  "updateUrl": "",
+  "authorList": ["luna724"],
+  "credits": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": [],
+  "dependencies": []
+}
+]
